@@ -2,7 +2,9 @@
 “Collection of my academic and online course certificates”
 ## 📜 My Certificates
 
--cisco_py1.pdf
-cisco_py2.pdf
-eds_assignment_2.pdf
-ibm_certificate.pdf
+## 📜 My Certificates
+
+- [Cisco Python 1](cisco.py1.pdf)
+- [Cisco Python 2](cisco py2.pdf)
+- [EDS Assignment](eds assignment 2.pdf)
+- [IBM Certificate](Completion Certificate _ SkillsBuild (3) IBM.pdf)
