@@ -12,3 +12,6 @@
 
 -Video Making on Python Basics Concepts
 https://youtu.be/srWydXhJmJk?si=qnD8xZF5EB2IdIdj
+-codetantra completion
+https://github.com/VaishnaviTapase/Certificates/blob/main/Screenshot%202026-05-08%20002555.png
+
