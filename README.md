@@ -10,7 +10,7 @@ https://youtu.be/srWydXhJmJk?si=qnD8xZF5EB2IdIdj
 ---
 
 ## 🖼️ Codetantra completion Screenshot
-Screenshot%2026-05-08193102.png
+Screenshot 2026-05-08 193102.png
 ---
 
 ## 📜 My Certificates
