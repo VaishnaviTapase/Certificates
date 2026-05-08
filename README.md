@@ -10,8 +10,7 @@ https://youtu.be/srWydXhJmJk?si=qnD8xZF5EB2IdIdj
 ---
 
 ## 🖼️ Codetantra completion Screenshot
-https://github.com/VaishnaviTapase/Certificates/blob/main/Screenshot%202026-05-08%20002555.png
-https://github.com/VaishnaviTapase/Certificates/blob/main/Screenshot%202026-05-08%20002615.png
+"C:\Users\YASH\OneDrive\Pictures\Screenshots\Screenshot 2026-05-08 193102.png"
 ---
 
 ## 📜 My Certificates
